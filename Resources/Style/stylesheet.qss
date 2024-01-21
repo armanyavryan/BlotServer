@@ -1,0 +1,20 @@
+ConnectingPage{
+    background: url(':/Images/BACKGROUND') repeat center center fixed;
+}
+
+
+Progress{
+    border: 2px solid #c6a707;
+    border-radius: 10px;
+    background: black;
+}
+#ProgressFill{
+    background: #c6a707;
+    border-radius: 5px;
+}
+
+#LoadingText{
+    font-size: 20px;
+    color: #c6a707;
+    font-weight: bold;
+}

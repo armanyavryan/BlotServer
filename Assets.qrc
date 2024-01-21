@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="BACKGROUND">Resources/Images/background.png</file>
+        <file alias="ROYAL-BRACKET">Resources/Images/royal_bracket.png</file>
+        <file alias="BRAND">Resources/Images/brand.png</file>
+    </qresource>
+    <qresource prefix="/Style">
+        <file alias="STYLESHEET">Resources/Style/stylesheet.qss</file>
+    </qresource>
+</RCC>
